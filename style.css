@@ -1,27 +1,39 @@
-body
-{background:rgb(107, 80, 80)
+body {
+  background: rgb(107, 80, 80);
+
+    overflow:auto;
+
+    padding: 5px 300px;
+
+    border-radius:50%;
+
+    display:inline-block;
+
+    margin:10px auto;
+
+    
+    
 }
 
-section
-{background:rgb(172, 140, 140)
+section {
+  background: rgb(172, 140, 140);
 }
 
-.header1{
-    color:rgb(32, 54, 32)
+.navigation {
+  color: brown;
+
+  background: yellow;
 }
 
-.header2{
-    color:rgb(36, 58, 3)
+.header1 {
+  color: rgb(32, 54, 32);
 }
 
-.header3{
-    color:green
+.header2 {
+  color: rgb(36, 58, 3);
 }
 
-
-
-
-
-
-
+.header3 {
+  color: green;
+}
 
