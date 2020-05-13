@@ -1,11 +1,13 @@
-body {
+main {
   background: rgb(107, 80, 80);
 
-    overflow:auto;
+  max-width:1000px;
+
+    
 
     padding: 5px 300px;
 
-    border-radius:50%;
+    
 
     display:inline-block;
 
@@ -25,15 +27,18 @@ section {
   background: yellow;
 }
 
-.header1 {
+.main__heading{
+  color:greenyellow
+}
+.about__heading{
   color: rgb(32, 54, 32);
 }
 
-.header2 {
+.notes__heading {
   color: rgb(36, 58, 3);
 }
 
-.header3 {
+.header__note__week{
   color: green;
 }
 
