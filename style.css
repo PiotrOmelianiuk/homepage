@@ -1,20 +1,13 @@
+body {
+  background: rgb(155, 236, 155);
+}
+
 main {
   background: rgb(107, 80, 80);
 
-  max-width:1000px;
+  max-width: 1000px;
 
-    
-
-    padding: 5px 300px;
-
-    
-
-    display:inline-block;
-
-    margin:10px auto;
-
-    
-    
+  margin: 10px auto;
 }
 
 section {
@@ -27,10 +20,10 @@ section {
   background: yellow;
 }
 
-.main__heading{
-  color:greenyellow
+.main__heading {
+  color: greenyellow;
 }
-.about__heading{
+.about__heading {
   color: rgb(32, 54, 32);
 }
 
@@ -38,7 +31,16 @@ section {
   color: rgb(36, 58, 3);
 }
 
-.header__note__week{
+.header__note__week {
   color: green;
 }
 
+.link {
+  color: forestgreen;
+}
+
+.footer {
+  max-width: 1000px;
+
+  margin: 10px auto;
+}
